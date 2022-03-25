@@ -1,0 +1,11 @@
+H:\Lập Trình Windows\QuanLyChuoiCuaHang\QuanLyChuoiCuaHang\bin\Debug\QuanLyChuoiCuaHang.exe.config
+H:\Lập Trình Windows\QuanLyChuoiCuaHang\QuanLyChuoiCuaHang\bin\Debug\QuanLyChuoiCuaHang.exe
+H:\Lập Trình Windows\QuanLyChuoiCuaHang\QuanLyChuoiCuaHang\bin\Debug\QuanLyChuoiCuaHang.pdb
+H:\Lập Trình Windows\QuanLyChuoiCuaHang\QuanLyChuoiCuaHang\obj\Debug\QuanLyChuoiCuaHang.csprojAssemblyReference.cache
+H:\Lập Trình Windows\QuanLyChuoiCuaHang\QuanLyChuoiCuaHang\obj\Debug\QuanLyChuoiCuaHang.Login.resources
+H:\Lập Trình Windows\QuanLyChuoiCuaHang\QuanLyChuoiCuaHang\obj\Debug\QuanLyChuoiCuaHang.Properties.Resources.resources
+H:\Lập Trình Windows\QuanLyChuoiCuaHang\QuanLyChuoiCuaHang\obj\Debug\QuanLyChuoiCuaHang.csproj.GenerateResource.cache
+H:\Lập Trình Windows\QuanLyChuoiCuaHang\QuanLyChuoiCuaHang\obj\Debug\QuanLyChuoiCuaHang.csproj.CoreCompileInputs.cache
+H:\Lập Trình Windows\QuanLyChuoiCuaHang\QuanLyChuoiCuaHang\obj\Debug\QuanLyChuoiCuaHang.exe
+H:\Lập Trình Windows\QuanLyChuoiCuaHang\QuanLyChuoiCuaHang\obj\Debug\QuanLyChuoiCuaHang.pdb
+H:\Lập Trình Windows\QuanLyChuoiCuaHang\QuanLyChuoiCuaHang\obj\Debug\QuanLyChuoiCuaHang.QuanLy.resources
